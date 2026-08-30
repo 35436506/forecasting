@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Forecasting Lab — GDMN",
+    page_title="Forecasting Lab",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded",
